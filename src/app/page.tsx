@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Github, GitBranch, GitCommit, GitPullRequest, Play, Upload, Clock, BarChart2, FileCode2, Folder, FolderGit2 } from 'lucide-react';
+import {  GitBranch, GitCommit, GitPullRequest, Play, Clock, BarChart2, FileCode2, Folder, FolderGit2 } from 'lucide-react';
 
 const container = {
   hidden: { opacity: 0 },
