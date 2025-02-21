@@ -26,13 +26,7 @@ Creates a GitHub repository for logs if it doesn’t already exist, making setup
 1. Open **VS Code** and navigate to the Extensions Marketplace.  
 2. Search for **WorkSpaceTracker** and click **Install**.  
 
-### Manual Installation (Development Mode)  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/your-repo/workspacetracker.git
-   ```
-2. Open the folder in **VS Code**.
-3. Run the extension in development mode using **VS Code Extension Host**.  
+
 
 ---
 
